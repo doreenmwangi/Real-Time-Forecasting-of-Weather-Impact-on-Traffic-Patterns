@@ -9,4 +9,4 @@ Key features include time series forecasting, real-time data integration, ethica
 
 2. functions.py – A Python module containing reusable plotting and utility functions (e.g., bivariate analysis, custom visualizations) to support the main analysis.
 
-3. interface.ipynb – A Streamlit-based web app that integrates weather forecast data from the Open-Meteo API and visualizes traffic predictions. This serves as the front-end of the project.
+3. interface.py – A Streamlit-based web app that integrates weather forecast data from the Open-Meteo API and visualizes traffic predictions. This serves as the front-end of the project.
